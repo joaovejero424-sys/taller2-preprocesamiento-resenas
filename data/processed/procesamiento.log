@@ -1,0 +1,23 @@
+Procesadas 25,000 reseñas.
+Procesadas 50,000 reseñas.
+Procesadas 75,000 reseñas.
+Procesadas 100,000 reseñas.
+Procesadas 125,000 reseñas.
+Procesadas 150,000 reseñas.
+Procesadas 175,000 reseñas.
+Procesadas 200,000 reseñas.
+{
+  "filas_entrada": 210000,
+  "filas_salida": 210000,
+  "ids_unicos": 210000,
+  "textos_originales_vacios": 0,
+  "textos_limpios_vacios": 3,
+  "textos_originales_repetidos": 607,
+  "textos_limpios_repetidos": 2726,
+  "etiquetas_originales_conservadas": true,
+  "stopwords_aplicadas": 195,
+  "conservar_negaciones": true,
+  "emoji_version": "2.15.0",
+  "sha256_origen": "b05ec94ab864bf88fcd1ee8c36542541f23504170d86fe93a798ee0b8bf6cd7a",
+  "sha256_limpio": "e61ebe4e3bf0a9f5983cb1d0e2a3553ac2455cdb2d0de784ca629a40965a0bdc"
+}

@@ -1,0 +1,1 @@
+Verificación de las 210000 filas: IDs, orden y etiquetas originales preservados. Cada texto limpio coincide con sus tokens; tokens en minúsculas y sin stopwords aplicadas, emojis ni caracteres no alfabéticos. Cantidades y bandera de texto vacío correctas. CSV sin índice extra.

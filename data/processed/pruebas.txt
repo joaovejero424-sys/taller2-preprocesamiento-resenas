@@ -1,0 +1,12 @@
+test_cantidad_inconsistente (test_preprocesamiento.PreprocesamientoTests.test_cantidad_inconsistente) ... ok
+test_html_y_correo (test_preprocesamiento.PreprocesamientoTests.test_html_y_correo) ... ok
+test_limpieza (test_preprocesamiento.PreprocesamientoTests.test_limpieza) ... ok
+test_negacion (test_preprocesamiento.PreprocesamientoTests.test_negacion) ... ok
+test_nulo (test_preprocesamiento.PreprocesamientoTests.test_nulo) ... ok
+test_pagina_vacia_no_final (test_preprocesamiento.PreprocesamientoTests.test_pagina_vacia_no_final) ... ok
+test_unicode (test_preprocesamiento.PreprocesamientoTests.test_unicode) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK
