@@ -2,8 +2,8 @@
   "fuente": "https://amazon-reviews-api-g5ae.onrender.com/reviews",
   "endpoint_descarga": "https://amazon-reviews-api-g5ae.onrender.com/reviews",
   "metodo": "paginado",
-  "inicio_utc": "2026-10-05T02:21:13.555640+00:00",
-  "fin_utc": "2026-10-05T02:22:13.835489+00:00",
+  "inicio_utc": "2026-10-05T06:19:22.103918+00:00",
+  "fin_utc": "2026-10-05T06:21:04.910796+00:00",
   "filas_descargadas": 210000,
   "tamanio_pagina": 1000,
   "columnas": [
